@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # Hi, I'm Deepak Shandilya 👋<br><br>Backend Developer from India — I build real things and ship them to production.<br><br>Currently open to work | Learning DSA + System Design
 
 
@@ -18,7 +18,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=deepakshandilya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=deepakshandilya&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
